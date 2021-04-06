@@ -1,0 +1,166 @@
+body{
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    
+}
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    
+}
+header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+}
+header nav a:hover{
+    color: #DAA520;
+}
+
+.logoImagem{
+    width: 80%;
+    margin-left: 2cm;
+    
+}
+.logo {
+    margin-left: 2cm;
+}
+.titulo{
+    color: #DAA520;
+    font-size: 200%;
+}
+.titulo2{
+    color: 	#C0C0C0;
+    font-size: 200%;
+    
+}
+.texto{
+    width: 700px;
+    margin-left: 7cm;
+}
+
+.img1{
+    width: 90%;
+    margin-left: 1cm;
+       
+}
+.img2{
+    width: 65%;
+    margin-left: 3cm;
+}
+.img3{
+    width: 45%;
+    margin-left: 5cm;
+}
+p{
+    font-size: 150%
+}
+.container2{
+    display: flex;
+    
+}
+.img4{
+    width: 45%;
+    margin-top: 1cm;
+    
+}
+
+.rodape{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    
+}
+.contato{
+    width: 25%;
+    height: 60%;
+    margin-left: 6.5cm;
+    text-align: left
+}
+.inicio{
+    width: 300%;
+    margin-left: -3cm;
+}
+.container3{
+    display: flex;
+
+}
+
+.container3 .img5{
+    width: 175%;
+    margin-left: 1cm;
+    margin-top: 2cm;
+       
+}
+.container4{
+    display: flex;
+}
+.container4 .imagem3{
+    width: 200%;
+    margin-left: 1cm;
+    margin-top: 1.5cm;
+    
+}
+.inicio2{
+    width: 750%;
+    margin-left: -5cm;
+}
+.container5{
+    display: flex;
+}
+.inicio3{
+    width: 500%;
+    margin-left: -5cm;
+}
+.container5 .imagem4{
+    width: 180%;
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
+.container6{
+    display: flex;
+}
+.inicio4{
+    width: 200%;
+    margin-left: -2cm;
+}
+.container6 .imagem5{
+    width: 150%;
+    margin-left: 2cm;
+    margin-top: 1cm;
+}
+.container7{
+    display: flex;
+}
+.inicio5{
+    width: 200%;
+    margin-left: -2cm;
+}
+.container7 .imagem6{
+    width: 120%;
+    margin-left: 2cm;
+    margin-top: 1.5cm;
+}
+.container8{
+    display: flex;
+}
+.container8 .imagem7{
+    width: 100%;
+    margin-left: -2cm;
+}
+.container8 .imagem8{
+    width: 100%;
+    margin-left: 2cm;
+    margin-top: 0.5cm;
+}
